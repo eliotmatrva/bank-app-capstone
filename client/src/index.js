@@ -4,7 +4,8 @@ import { HashRouter, Route } from "react-router-dom";
 // import './index.css';
 import reportWebVitals from './reportWebVitals';
 import NavBar from './components/navbar'
-import 'bootstrap/dist/css/bootstrap.min.css'
+// import 'bootstrap/dist/css/bootstrap.min.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import CreateAccount from './components/createaccount2'
 import AllData from './components/alldata3'
 import Home from './components/home'
